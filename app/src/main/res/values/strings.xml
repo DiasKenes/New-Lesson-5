@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">lesson4</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="tue">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+
+    <string name="clear">C</string>
+    <string name="exponent">^</string>
+    <string name="jaqsha">()</string>
+    <string name="bolu">/</string>
+    <string name="kobeitu">*</string>
+    <string name="plus">+</string>
+    <string name="mines">-</string>
+    <string name="plusormines">+/-</string>
+    <string name="nukte">.</string>
+    <string name="teng">=</string>
+
+    <string name="backspace"></string>
+</resources>
